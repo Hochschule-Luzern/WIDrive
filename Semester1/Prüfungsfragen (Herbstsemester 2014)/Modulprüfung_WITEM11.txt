@@ -1,0 +1,22 @@
+Theorie:
+- SSD und Tripple Level Cell beschreiben
+- Differenz zwischen RAID0+1 und RAID1+0 erklären
+- Deterministisch und Determinirtheit erklären können (Plus je einen Algorithmus aufzeichen welcher deterministisch und nicht deterministisch ist)
+- Tabelle mit zwei Untergriffen und eine Oberbegriff ergänzen (z.B. FTP + ATP = Internetdienste, oder Switch + Hub = ...)
+- DevOps: Was ist das, in welcher Abteilung werden sie eingesetzt im Unternehmen, wieso gibt es sie...
+
+Praxis:
+- Binär Baum mit InOrder Methode erstellen (Daten welche im Baum dargestellt werden sind vorgegeben)
+- Holzi-Assembler Programm analysieren und bestimmen was die Ausgabe ist
+- Fliesskommazahl Darstellung in Float-Maschinenzahl, von Dez -> Maschinenzahl und Maschinenzahl -> Dez -> 2er Komplement
+- Sortieralgorithmen kennen (Sort, ... -> wurden ja verlangt)
+- Algoriethmus (vorgegeben in C) analysieren und beschreiben was er macht, einmal mit selbst definiertern Zahlen durcharbeiten
+- Mit ASCII Tabelle einen Text übersetzten "Allez Hop"
+
+FX-Prüfung:
+- Raid 1+0 und 0+1 sehr gut kennen! (z.B. wenn 1 Disk defekt ist, was geschieht dann? und was ist die Wahrscheinlichkeit für den Ausfall einer 2. Disk?)
+- Scrum (detailliert beschreiben können, Vorteile gegenüber Wasserfall, DailyScrum (Was passiert und wie wird es auch benannt)..)
+- Holzi (Code angegeben, sagen was der Output ist)
+- Binär in Dez und umgekehrt
+- Float Darstellung (Maschinenzahl in Float)
+- Binärbaum (ähnliche Aufgabe wie in der Probeprüfung)

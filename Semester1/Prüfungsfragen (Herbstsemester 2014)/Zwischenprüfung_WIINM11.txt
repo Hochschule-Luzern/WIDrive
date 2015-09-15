@@ -1,0 +1,22 @@
+Theorie:
+- Wieso ist Java im vergleich zu anderen Sprachen langsam? -> JIT-Compiler
+- Wieso ist Java nicht nur eine Sprache, sondern auch eine Insel? -> 1x compiliert läuft Java auf jeder Hardware welche JVM verfügt
+- Begriffe Class Loader,Bytecode Verifier, Execution Engine, Compiler, Assembler verstehen und beschreiben können
+
+Praxis:
+- Java Programm analysieren, welche Zeilen werden im Heap/Stack gespeichert
+- Klasse Fahrrad
+-> get und set Methoden definieren,
+-> Methode zum Attribute ausgeben definieren,
+-> Standard und benutzerdefinierter Konstruktor definieren,
+-> Attribute definieren
+- 3-4 Operatoren Aufgaben (a = B||C blabla.. gibt es true oder fals..)
+- Methode in eine Klasse implementieren, welche ein übergebens Array mit Datenbefüllt
+- Java Programm auf Fehler analysieren
+-> String Escape Sequenz Fehler war eingebaut
+-> zugriff auf einen nicht vorhanden Konstruktor
+- If-Klausel anhand eines Textes erstellen
+->(...blabla soll erfüllt sein wenn a/b kleiner 40 und b doppelt so gross wie c blabla...)
+
+Tipp:
+- Caran d’Ache Farbkasten mitnehmen :-) *opa mathis-style wupwup*

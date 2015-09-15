@@ -1,0 +1,26 @@
+Theorie:
+- Kapazität und Grösse von Arrays verstehen
+- Abstract Class und Vererbung gut verstehen
+- 
+
+Praxis:
+- Eigene Exception Klasse erstellen und in einem vorgegebenen Programm einbauen (Klasse + Methode throws + im main() Try&Catch ...)
+
+- Iterator und ArrayList anwenden können (API ist dabei, no worries) 
+ - ein Element entfernen / hinzufügen / ersetzten
+ - ein Liste mit einem Iterator und einer for-Schleife durchgehen
+
+- Abstrakte Klasse anwenden
+ - Nach Vorgabe aus Text eine abstract Class erstellen
+ - zwei Klassen erstellen die von der abstract Class erben -> Konstruktoraufruf und super() anwenden können!
+ - in main() verschiedene Methoden anwenden die programmiert wurden, um Ausgabe wie verlangt auszugeben
+
+- Event-Handling
+ - EventHandler für Button-drücken erstellen
+ - EventHandler für Mouse-klicken erstellen  (koordinaten bei Mausklick in ein Label schreiben)
+
+- GUI
+ - zwei Elemente kennen (z.B. Button und Label)
+ -
+
+- Streams

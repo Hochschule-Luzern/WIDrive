@@ -1,0 +1,16 @@
+Theorie:
+- NAT, für was wird es verwendet
+- Ipv4 -> wieviele IP's möglich?
+
+
+Praxis:
+- Wieso eine Feedback-Funktion auf der Website NICHT als mail-to einbauen, sondern als Formular?
+ - Daten sind strukturierter, man kann Textlängen vorgeben, nach bestimmten Informationen Fragen, etc.
+
+- Cookies:
+ - Welche Verbindungen kann ein Cookie aufbauen?
+ - Anhand eines Warenkorbs zeigen, welche Daten aus dem Cookie stammen und welche aus der Datenbank... -> Warenkorb Beispiel aus Unterricht verstehen
+
+- CMS
+ - ein paar CMS  aufzählen können
+ - Vorteil / Nachteil ob Xampp als System oder Benutzer Prozess installiert ist

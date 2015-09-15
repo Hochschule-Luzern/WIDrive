@@ -1,0 +1,14 @@
+1.Teil (Lösungsweg entscheident)
+- Steuer-Aufgabe (Bis 18'000 CHF Einkommen keine Steuern, ab 18'000CHF zahlt man 28% Steuern, jedoch darf der Steuerbetrag nicht 25% des Einkommens
+überschreiten) -> die drei Intervalle und die drei Formeln Steuern(Einkommen) bestimmen
+- Umkehrfunktion erstellen
+- Angebots und Nachfrage Funktion gleichsetzten
+- Grenzetrag bestimmen -> 1.Ableitung
+- Gleichungssystem anhand von Informationen über eine Formel erstellen (1. und 2. Ableitung ... a b und c bestimmen -> TR: SysSolv)
+
+2.Teil (nur Lösung entscheident)
+- Graph von Funktion f() ist gegeben: wo ist f'() extrem und ist es ein minima oder maxima? für f'() = 0.5, wieviele Lösungen?
+bei f'(1.2) = 0.6 wie verändert sich output...
+- Differenzial berechnen, f'() und dx ist gegeben
+- f'() ist gegeben, wo ist Wendepunkt
+- 457 im 10er System neu im 9er System darstellen

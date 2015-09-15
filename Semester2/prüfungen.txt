@@ -1,0 +1,25 @@
+**************** JAVA *******************
+PIK
+- multithreading -> eigenes protokoll erstellen können
+- soap implementation, Vorteile und Nachteile
+
+Mathis Teil:
+- Design Patterns beschreiben können
+- Testing (15p) -> mockup etc., die paar stichwörter können
+- Test Driven Dev. Vorteile und Nachteile nennen können 
+- Aktivitätsdiagramm, Sequenzdiagramm, ... Programm so abbilden (40%) WICHTIG, Grossteil von Mathis seiner Prüfung
+
+**************** ERP *******************
+- navision gut kennen (z.B. wo kann man icon grösse anpassen und so kack -> übungen alle durchspielen)
+- EPK, BPMN, ABlaufdiagramm etc. zeichnen können
+- PrintScreen von Navison und dann Fragen beantworten... 
+
+**************** SQL *******************
+- Trigger
+- Selects in allen Varianten
+- VIEWS
+- Prozeduren schreiben
+- Ref. Integrität verstehen
+- Fehlersuche im Code
+- Pointer Konzept 
+- Musterprüfung nicht als Referenz nehmen!!!
