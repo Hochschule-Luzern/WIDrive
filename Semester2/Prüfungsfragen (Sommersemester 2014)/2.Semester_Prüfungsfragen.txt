@@ -1,0 +1,84 @@
+Prüfungen Sommersemester 2015 - Wirtschaftsinformatik HSLU
+**************** Software-Komponenten *******************
+PIK
+- multithreading -> eigenes Protokoll erstellen können (Un/Marshalling)
+- Soap Web implementation, Vorteile und Nachteile
+- Verteilte Anwendung (Begriff), Fehleranalyse wird schwieriger warum? -> Komplexität
+- WSDL Begriff erklären
+- Was RMI ist (beschreiben)
+- Architekturmodell (mit 4 Schichten) zeichnen anhand Beispiel (gegeben Datenbank, Webserver, blabla...)
+- OR-Mapping, OneToMany, ManyToOne Beispiel schreiben
+- Vorteile von JPA
+- Ablauf von RMI Kommunikation (Stub-Skelleton)
+
+ESS
+- Zustandsdiagramm erstellen (Ausgangslage ist ein 10-15 Zeilentext)
+- Die Drei Sichten beschreiben können (gibt 1/3 der Punkte!!!)
+- Zustandsdiagramm
+- Klassenmodell erstellen (Ausgangslage ist ein 15-20 Zeilentext)
+
+**************** ERP *******************
+GUF
+- 3 technische intergrationsarten von ERP Systemen zeigen
+- 3 Wichtigsten Kriterien für eine erfolgreiche Integration von ERP Systemen
+- 6 Kostenarten die anfallen bei einem ERP
+- Verfügbarkeitsrechnung (seriel&parallel geschaltet) rechnen können
+- EPK, BPMN, ABlaufdiagramm Notation kennen -> mussten Stellenorientiertes Ablaufdiagramm zeichnen
+- Fehler Möglichkeiten und Einfluss Analyse (FMEA) -> Wissen was A, B und E ist... easy Punkte :)
+- BI: Slicen und Dicen können -> Erhalten Tabelle die anderst dargestellt werden müssen... easy!
+- Vorteile von Webservices
+- 
+
+AES
+- Debitorenbuchhaltung in Navision gut kennen
+- Kreditorenbuchhaltung in Navision gut kennen
+(Was passiert wenn ich eine Buchung bestäige blabla)
+- ABC-Analyse
+- FIFO und LIFO anwenden können (analog Aufgaben)
+- Viele Printscreens von Navision und Fragen dazu... "Was fehlt bei diesem Kreditor?"
+
+Easy Prüfung, aber ehrlich... auch richtig krank... Schneider Style...
+
+**************** Datenmanagement *******************
+BED-Teil härteste Prüfung EVER! zumindest bei uns...
+BED
+- Trigger schreiben
+- Selects in allen Varianten -> Joins perfekt beherrschen
+- Transaktion schreiben
+- Ref. Integrität umsetzten in einer nicht vollständigen Implementierung
+- 
+- Musterprüfung nicht als Referenz nehmen!!!
+
+EED
+- 3x Texte erhalten mit 15-20 Zeilen. Anhand dieser ERM zeichnen. UML und Krähenfussnotation
+- Access Abfragen erstellen, Printscreens von Access Abfrage Editor befüllen...
+
+**************** Organisation *******************
+- Probeprüfung ist die perfekte Vorbereitung...
+
+**************** Mathematik *******************
+- Produktionsminimum ausrechnen
+- Preiselastizität, Elastizität allgemein sehr gut kennen! (Kreuspreiselastizität)
+
+**************** English 2 *******************
+Easy Prüfung!
+- 50% der Punkte bekommt man für das schreiben eines Briefes... (Angaben was im Brief drin
+stehen muss sind vorgegeben, können quasi abgeschrieben werden... völliger Witz :D)
+- 250 Business Words kennen... gibt aber nur 10 Punkte... hat sich bei uns nicht wirklich gelohnt
+- Articles (relativ clauses, quantifiers, etc.) 10 Punkte, verdammt schwierig... Lückentext
+wie in den Übungen
+
+**************** VWL 2 *******************
+- makroökonomisches Modell gut kennen (Auswirkung von Nachfrage- und Angebotveränderung 
+einzeichnen)
+- Beispiel Währung Aufwertung/Abwertung machen können
+- Wieso Spanien in eine Krise kam nach der Einführung des Euros
+- Wieso die EZB mit ihrere Geldpolitik nicht allen Volkswirtschaften hilft...
+- Gründe für Wechselkursaufhebung der Schweiz und die Folgen
+- Auswirkungen von Exporten / Importen und Angebot und Nachfrage -> grossteil der Prüfung
+- Deflation und Abschwung mussten anhand eines Textes herausgefunden werden und in Modell eingezeichnet werden
+- Nachteile von Denkmodellen aufzeigen -> wieso Unternehmen starr sind
+- Gründe für Wachstum und Frage wieso Wohlstand besser wird bei einem positiven Wachstum
+
+************** GOOD LUCK BOYS AND GIRLS.. Cheers Kevin **************
+
