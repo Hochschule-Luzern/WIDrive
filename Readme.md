@@ -1,4 +1,6 @@
-Namenskonvention Dokumente:
+[# OneDrive](https://onedrive.live.com/redir?resid=C4CED53321DAFA52!461399&authkey=!ADOLGqQTWWtLW4g&ithint=folder%2ctxt)
+
+# Namenskonvention Dokumente
 
 Student:
 
@@ -12,16 +14,16 @@ Dozent:
 
 Typ:
 * Zusammenfassung
-* Probeprüfung
+* ProbeprÃ¼fung
 * Glossar
 * Aufgaben
-* Lösungen
-* Übersicht
-* Präsentation
+* LÃ¶sungen
+* Ãœbersicht
+* PrÃ¤sentation
 * Fragekatalog
 
 Beschreibung:
-* ergänzende Information
+* ergÃ¤nzende Information
 
 Modul und Semster
 * siehe Ordner
