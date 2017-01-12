@@ -1,4 +1,4 @@
-#[OneDrive](https://onedrive.live.com/redir?resid=C4CED53321DAFA52!461399&authkey=!ADOLGqQTWWtLW4g&ithint=folder%2ctxt)
+#[OneDrive](https://1drv.ms/f/s!AlL62iEz1c7E14dfr-8RDyDlE0t9rQ)
 
 # Namenskonvention Dokumente
 
@@ -27,4 +27,3 @@ Beschreibung:
 
 Modul und Semster
 * siehe Ordner
-
