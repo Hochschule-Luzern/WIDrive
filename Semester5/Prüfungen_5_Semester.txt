@@ -1,0 +1,61 @@
+********************* It Security 2 (TMR51) *********************
+- Wie können Root-CA Zertifikate überprüft werden? Nennen Sie zwei Methoden
+- Wie kann ein SSL Zertifikat überprüft werden? Nennen Sie zwei Methoden
+- Unterschied Elektronische Signatur, Forgeschrittene Signatur und Qualitative Signatur wissen und in Fallbeispiel aufzeigen können,
+welches am besten verwendet werden sollte
+- Compliance Pyramide -> für jede Stufe ein Beispiel machen
+-Governance Risk Compliance und Audit&Assurance: Zusammenhang der Teilgebiete gut verstehen.
+Frage war: Wie Governance und Audit&Assurance die Compliance beeinflussen
+
+Note: Über Risk kam nichts, wahrscheinlich daher, weil die Projektarbeit stark auf Risk
+fokusiert war.
+
+********************* Personalmgmt (MGT05) *********************
+Bei der Prüfung lohnt sichs fast nicht alles aufzuschreiben was gekommen ist, weil es ist
+einfach wirklich alles dran gekommen...! Empfehle eine Zusammenfassung laut der Prüfungsabgrenzung
+zu machen und dann wirklich stupid alles auswendig lernen. Es kommt immer ein Fallbeispiel (halbe
+bis eine ganze Seite Text) und dann Fragen dazu.
+
+Beispiele was bei uns gekommen ist:
+- Luzerner HRM Modell:
+Nennen Sie etwas positives an diesem Modell und begründen Sie wieso sie das positiv finden?
+Nennen Sie etwas negatives diesem Modell und begründen Sie wieso sie das negativ finden?
+- Alle Leistungsanker kennen
+- Reifegradmodell und Model von Kälin&Muri auswendig können
+- Was ist: Motiv, Motivationm Humand Cloud, Karriereportfolio (etwas mit Portfolio, weiss nicht obs Karriere war...)
+- 100 Jähriges leben, was bedeutet das für die Menschen
+- Geben Sie vier Empfehlungen wie ein Austritt gestaltet werden sollte
+- Employee-Value-Proposition: Anhand von einem Fallbeispiel durchspielen können und den EVP ermitteln
+- Alle Leistungsmotivationen kennen
+- Wieso wahrnehmungs/bewertungsfehler bei Interviews entstehen können
+etc.
+
+Die Prüfung ist in dem Sinn nicht schwer, jedoch sehr umfangreich (100 Minuten!) -> Wirklich alle aufzählungen / Modelle aus der Abgrenzung 1:1
+Auswendig lernen.
+
+********************* Human Computer Interaction (TMR52) *********************
+Easy one...
+
+Erhielten eine Fallstudie über eine MobileApp (1 Seite)
+- Workflow (Zustandsdiagramm) zur App zeichnen (Bsp. Startscreen -> "Drücke Archiv Button" -> Archiv)
+- 5 Mockups dazu zeichnen
+- Gestaltungsgesetzte kennen und auf App anwenden können
+- Was bedeutet "intuitive" Benutzeroberfläche?
+- Was ist mit dem Gap zwischen Gulf of Execution und Gulf of evaluation gemeint?
+
+Note: Simple Prüfung, Theorie kann OpenBook mitgenommen werden, Aufgaben erfordern ein wenig kreativität
+
+********************* Geschäftsprozessmgmt(PRM05) *********************
+Faire (easy) Prüfung:
+- 3 Gestaltungsregeln nennen und Sinn/Zweck der Regel beschreiben
+- Wie wird Geschäftsprozessmgmt eingeführt? Positionierung, Konzept, blabla
+- Was für Einführungsvarianten gibt es, einzelner primärer Geschäftsprozess, etc. Vorteile und Nachteile aufschreiben
+- 10 Multiple Choice fragen über gesamten Stoff
+- 4 Merkmale einer Prozessorientierten Unternehmensführung
+- Risiko/Attraktivitätsmatrix, für was gut, welche Massnahmen man durchführen kann
+- Risikobeurteilung, Ziel und Aufgaben beschreiben
+- 4 Aussagen, falsch oder richtig? Begründen -> Notwendig ist zu wissen was strat. GPM beinhaltet: Führung,Organisation,Optimierung,Controlling und was darin passiert.
+
+
+Easy Semester, studium esch glaufe... vell spass in amerika :)
+Cheers Kevin
