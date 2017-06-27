@@ -1,4 +1,5 @@
-#[OneDrive](https://1drv.ms/f/s!AlL62iEz1c7E14dfr-8RDyDlE0t9rQ)
+# [OneDrive Link](https://1drv.ms/f/s!AlL62iEz1c7E14dfr-8RDyDlE0t9rQ)
+Hier findest du alle Zusammenfassungen zum Studiengang Wirtschaftsinformatik an der HSLU.
 
 # Namenskonvention Dokumente
 
